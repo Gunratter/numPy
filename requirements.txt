@@ -1,1 +1,1 @@
-https://github.com/Gunratter/numPy.git
+#https://github.com/Gunratter/numPy.git  #ссылка на гитхаб
