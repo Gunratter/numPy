@@ -1,1 +1,3 @@
 #https://github.com/Gunratter/numPy.git  #ссылка на гитхаб
+#pip install fastapi
+##pip install -U http-exceptions
